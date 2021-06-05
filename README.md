@@ -80,7 +80,9 @@ And run DHCP again:
 $ sudo dhcpd
 ```
 
-Now the DHCP server has to listen for requests on our interface. There must be lines `Listening on ...`, `Sending on ...`.
+Now the DHCP server has to listen for requests on our interface. 
+
+There must be lines `Listening on ...`, `Sending on ...`.
 
 Alternatively, to start the DHCP service, you can use the command:
 
